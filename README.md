@@ -1,7 +1,7 @@
 # EditImageDemo
 iOS 图片放大缩小，选择裁剪区域
 
-![1.gif](https://upload-images.jianshu.io/upload_images/2868618-47469ed735068a89.gif?imageMogr2/auto-orient/strip)
+![1.gif](https://github.com/jiangboLee/EditImageDemo/blob/master/1.gif)
 
 #### 核心代码
 ###### 就一个scrollView文件，可以直接拖到项目中使用~
