@@ -12,6 +12,7 @@
 		9B7122262140DF590009D5A7 /* EditImageCropView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7122232140DF570009D5A7 /* EditImageCropView.swift */; };
 		9B7122282140DF590009D5A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7122252140DF580009D5A7 /* ViewController.swift */; };
 		9B71222A2140DF710009D5A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B7122292140DF710009D5A7 /* Assets.xcassets */; };
+		9B71222C2140E0820009D5A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B71222B2140DFA70009D5A7 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B71222C2140E0820009D5A7 /* Main.storyboard in Resources */,
 				9B712212213FDFC30009D5A7 /* LaunchScreen.storyboard in Resources */,
 				9B71222A2140DF710009D5A7 /* Assets.xcassets in Resources */,
 			);
